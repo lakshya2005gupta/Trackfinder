@@ -1,0 +1,229 @@
+{
+  "Dzukou_Valley_Trek": {
+    "base_camp": [
+      25.5788,
+      93.8933
+    ],
+    "authorized_route": [
+      [
+        25.5788,
+        93.8933
+      ],
+      [
+        25.5845,
+        93.9012
+      ],
+      [
+        25.5901,
+        93.9089
+      ],
+      [
+        25.5967,
+        93.9156
+      ],
+      [
+        25.6023,
+        93.9234
+      ],
+      [
+        25.6089,
+        93.9301
+      ]
+    ],
+    "viewpoints": [
+      {
+        "name": "Valley Viewpoint",
+        "coords": [
+          25.6089,
+          93.9301
+        ],
+        "max_capacity": 50
+      },
+      {
+        "name": "Sunrise Point",
+        "coords": [
+          25.6045,
+          93.9267
+        ],
+        "max_capacity": 30
+      },
+      {
+        "name": "Photo Point",
+        "coords": [
+          25.5967,
+          93.9156
+        ],
+        "max_capacity": 25
+      }
+    ],
+    "restricted_areas": [
+      {
+        "name": "Wildlife Sanctuary Buffer",
+        "center": [
+          25.615,
+          93.94
+        ],
+        "radius_km": 2
+      },
+      {
+        "name": "Landslide Prone Area",
+        "center": [
+          25.59,
+          93.94
+        ],
+        "radius_km": 1.5
+      }
+    ],
+    "difficulty": "moderate"
+  },
+  "Living_Root_Bridge_Trek": {
+    "base_camp": [
+      25.2993,
+      91.7362
+    ],
+    "authorized_route": [
+      [
+        25.2993,
+        91.7362
+      ],
+      [
+        25.2956,
+        91.7398
+      ],
+      [
+        25.2923,
+        91.7445
+      ],
+      [
+        25.2889,
+        91.7489
+      ],
+      [
+        25.2867,
+        91.7523
+      ]
+    ],
+    "viewpoints": [
+      {
+        "name": "Double Decker Bridge",
+        "coords": [
+          25.2867,
+          91.7523
+        ],
+        "max_capacity": 40
+      },
+      {
+        "name": "Waterfall View",
+        "coords": [
+          25.2889,
+          91.7489
+        ],
+        "max_capacity": 20
+      },
+      {
+        "name": "Valley Overlook",
+        "coords": [
+          25.2923,
+          91.7445
+        ],
+        "max_capacity": 15
+      }
+    ],
+    "restricted_areas": [
+      {
+        "name": "Unstable Cliff Area",
+        "center": [
+          25.28,
+          91.76
+        ],
+        "radius_km": 1
+      },
+      {
+        "name": "Sacred Forest",
+        "center": [
+          25.295,
+          91.73
+        ],
+        "radius_km": 0.8
+      }
+    ],
+    "difficulty": "challenging"
+  },
+  "Mechuka_Valley_Trek": {
+    "base_camp": [
+      28.7833,
+      94.2167
+    ],
+    "authorized_route": [
+      [
+        28.7833,
+        94.2167
+      ],
+      [
+        28.7789,
+        94.2234
+      ],
+      [
+        28.7756,
+        94.2301
+      ],
+      [
+        28.7712,
+        94.2367
+      ],
+      [
+        28.7678,
+        94.2434
+      ],
+      [
+        28.7645,
+        94.2501
+      ]
+    ],
+    "viewpoints": [
+      {
+        "name": "Summit View",
+        "coords": [
+          28.7645,
+          94.2501
+        ],
+        "max_capacity": 35
+      },
+      {
+        "name": "Valley Panorama",
+        "coords": [
+          28.7712,
+          94.2367
+        ],
+        "max_capacity": 45
+      },
+      {
+        "name": "River Bend View",
+        "coords": [
+          28.7789,
+          94.2234
+        ],
+        "max_capacity": 30
+      }
+    ],
+    "restricted_areas": [
+      {
+        "name": "Military Buffer Zone",
+        "center": [
+          28.75,
+          94.27
+        ],
+        "radius_km": 3
+      },
+      {
+        "name": "Avalanche Risk Area",
+        "center": [
+          28.76,
+          94.26
+        ],
+        "radius_km": 2
+      }
+    ],
+    "difficulty": "hard"
+  }
+}
